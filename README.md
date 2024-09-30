@@ -29,26 +29,3 @@ Registration
 Login 
 
 ![Screenshot 2024-09-30 215939](https://github.com/user-attachments/assets/31cdea33-a7b3-42e4-aab9-70c50dd271f6)
-
-
-Admin Library Management
-
-![l1](https://github.com/user-attachments/assets/1a759239-f099-4159-9e84-12ba9e3bfc97)
-![l2](https://github.com/user-attachments/assets/75ae9aea-28a2-4782-9ffd-e5c49ef4a52a)
-
-
-Student Profile
-
-![StudentProfile](https://github.com/user-attachments/assets/34d5dbf8-8880-4344-910b-c984882b9682)
-
-
-Issue and Return Book
-
-![issue](https://github.com/user-attachments/assets/11ea692d-208a-4dab-b337-d28fd1895afa)
-
-
-Book HIstory
-
-![bookhistory](https://github.com/user-attachments/assets/b97f2432-65b2-4131-a285-748fb2a3cacf)
-
-![l3](https://github.com/user-attachments/assets/e1cbb599-b811-4b4d-a9f5-a04b97359199)
