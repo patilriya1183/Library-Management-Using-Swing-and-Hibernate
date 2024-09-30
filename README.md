@@ -16,18 +16,30 @@ The system is built using the MVC pattern for organized code structure and can b
 
 (UI OF OUR PROJECT IS BEING UPDATING, ABOVE LINK IS ONLY FOR REFERENCE PURPOSE)
 
+Home Page
+
+![Screenshot 2024-09-30 215908](https://github.com/user-attachments/assets/78afdffe-d041-4a45-b42a-51db43e21898)
+
+
+Registration
+
+![Screenshot 2024-09-30 215916](https://github.com/user-attachments/assets/1db8b1c0-1bbf-4d59-923e-aed77267b56b)
+
+
+Login 
+
+![Screenshot 2024-09-30 215939](https://github.com/user-attachments/assets/31cdea33-a7b3-42e4-aab9-70c50dd271f6)
+
+
 Admin Library Management
 
-![Admin](https://github.com/user-attachments/assets/1554ee62-aadc-4dcc-9d2a-2c2e8b9acf85)
+![l1](https://github.com/user-attachments/assets/1a759239-f099-4159-9e84-12ba9e3bfc97)
+![l2](https://github.com/user-attachments/assets/75ae9aea-28a2-4782-9ffd-e5c49ef4a52a)
 
 
 Student Profile
+
 ![StudentProfile](https://github.com/user-attachments/assets/34d5dbf8-8880-4344-910b-c984882b9682)
-
-
-Log in
-
-![log in](https://github.com/user-attachments/assets/4c9b74da-2b17-48e7-a8d8-4c526d061a94)
 
 
 Issue and Return Book
@@ -39,9 +51,4 @@ Book HIstory
 
 ![bookhistory](https://github.com/user-attachments/assets/b97f2432-65b2-4131-a285-748fb2a3cacf)
 
-
-Registration
-
-![registration](https://github.com/user-attachments/assets/ad0adc0c-518b-4810-85ee-fb2998cca00c)
-
-
+![l3](https://github.com/user-attachments/assets/e1cbb599-b811-4b4d-a9f5-a04b97359199)
