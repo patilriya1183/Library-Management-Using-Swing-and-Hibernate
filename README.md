@@ -16,23 +16,32 @@ The system is built using the MVC pattern for organized code structure and can b
 
 (UI OF OUR PROJECT IS BEING UPDATING, ABOVE LINK IS ONLY FOR REFERENCE PURPOSE)
 
-Admin Library Management (Damini Chachane)
+Admin Library Management
+
 ![Admin](https://github.com/user-attachments/assets/1554ee62-aadc-4dcc-9d2a-2c2e8b9acf85)
 
-Student Profile (Gaurav Kumbhare)
+
+Student Profile
 ![StudentProfile](https://github.com/user-attachments/assets/34d5dbf8-8880-4344-910b-c984882b9682)
 
-Log in (Riya Patil)
+
+Log in
 
 ![log in](https://github.com/user-attachments/assets/4c9b74da-2b17-48e7-a8d8-4c526d061a94)
 
-Issue and Return Book (Ritika Dhakate)
+
+Issue and Return Book
+
 ![issue](https://github.com/user-attachments/assets/11ea692d-208a-4dab-b337-d28fd1895afa)
 
-Book HIstory (Prashik Likhar)
+
+Book HIstory
+
 ![bookhistory](https://github.com/user-attachments/assets/b97f2432-65b2-4131-a285-748fb2a3cacf)
 
-Registration (Ayush Pinjarkar)
+
+Registration
+
 ![registration](https://github.com/user-attachments/assets/ad0adc0c-518b-4810-85ee-fb2998cca00c)
 
 
